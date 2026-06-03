@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**fabiojuniogit/fabiojuniogit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## fabiojuniogit
+### estudante de Ciencia de dados na Escola do futuro de Goias
+##### 🥸 Toolbx  tecnico 
+  -**Dado** : Python ( pandas, Seaborn ), SQL (MySQL),NoSQL (ElasicSearh)
+  -**Visualizaçao**  Matplotlib,Kibana,  Power BI , Excel 
+  -**Ferranemtas:** Git, Gitthub,  vS Code
+  -**Machine Learing:** Scikit-learn  
+  #### 📒  Projetos em destaque 
+  -.[techStore anaysis] (fabiojuniogit/TechStore):Consultoria para empresa TechStore 
+  ###🎓 conhecimentos Futuros 
+  -**Visualizaçao de Dados:88 looker, Tableau 
+  -**Clouds**:AWS
+  -**Liguagens**:R
